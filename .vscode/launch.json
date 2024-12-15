@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/manoj/Desktop/DSA_Python",
-      "program": "c:/Users/manoj/Desktop/DSA_Python/build/Debug/outDebug",
+      "cwd": "c:/Users/manoj/Desktop/DSA",
+      "program": "c:/Users/manoj/Desktop/DSA/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
